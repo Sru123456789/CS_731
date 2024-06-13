@@ -69,13 +69,13 @@ This project is a course management platform designed to allow instructors to cr
 ## Usage ##
 
 #### Instructors ###
-- Register and login.
-- Create a new course.
-- Register students in the course.
-- Upload course content.
+-Register and login.
+-Create a new course.
+-Register students in the course.
+-Upload course content.
 
 ### Students ###
 
-- Register and login.
-- View the list of courses you are registered in.
-- Access the course details and content.
+-Register and login.
+-View the list of courses you are registered in.
+-Access the course details and content.
